@@ -42,7 +42,7 @@ A Django-based Employee Management System that allows you to manage employees, i
 
     ```bash
     git clone https://github.com/fahadfoysal/employee_management.git
-    cd employee-management-system
+    cd employee_management
     ```
 
 2. **Create a virtual environment:**
